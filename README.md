@@ -4,6 +4,7 @@ Code and slides of my YouTube series called "[Audio Signal Proessing for Machine
 
 This repository is a comprehensive collection of resources, code, and explanations for understanding and implementing audio signal processing techniques, with a focus on applications in machine learning. It serves as a learning guide, starting from the fundamentals of sound and waveforms and progressing to advanced feature extraction methods.
 
+![Maintained](https://img.shields.io/badge/Maintained%3F-yes-green.svg)
 ![Python 3.11](https://img.shields.io/badge/python-3.11-blue.svg)
 ![librosa](https://img.shields.io/badge/librosa-9418A8?style=flat&logo=python&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-004a96?style=flat&logo=numpy&logoColor=white)
